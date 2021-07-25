@@ -6,7 +6,7 @@
 - HTML5 
 - CSS3
 - JavaScript (for coding algorithms)
--Codepen(Style inspiration)
+- Codepen(Style inspiration)
 ## Software needed to run this app
 - VSCode (as an editor)
 - Google Chrome (UI)
@@ -15,5 +15,8 @@
 - Press the Enter key.
 - You will find the weather updates.
 
+## Repo Link :
+- https://github.com/AbidaAli100/Weather-Application
+
 ## Live Link
--  https://abidaali100.github.io/Product-List-App/
+-  https://abidaali100.github.io/Weather-Application/
